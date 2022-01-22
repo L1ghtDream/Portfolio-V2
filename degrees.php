@@ -197,6 +197,28 @@
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/a29e65562f7345fca58254a1a50be695 style="color: #39c7f1; text-decoration: none" target="_balnk">a29e65562f7345fca58254a1a50be695</a></strong> <br> 
                 </div>
               </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/LFS101x.png"></div>
+                <div class="name">The Linux Fundation - Introduction to Linux</div>
+                <div class="text d-none">
+                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/LFS101x.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Grade: Passing Grade (95%) <br> 
+                  Degree ID: <strong><a href=https://courses.edx.org/certificates/60f3b8d3054a43e9b4670474eda3e61d style="color: #39c7f1; text-decoration: none" target="_balnk">60f3b8d3054a43e9b4670474eda3e61d</a></strong> <br> 
+                </div>
+              </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CS1331xI.png"></div>
+                <div class="name">Georgia Tech - Introduction to Object-Oriented Programming with Java I</div>
+                <div class="text d-none">
+                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CS1331xI.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Grade: Passing Grade (93%) <br> 
+                  Degree ID: <strong><a href=https://courses.edx.org/certificates/9f80f8ae0fcf47e295448d25b4ebf8e4 style="color: #39c7f1; text-decoration: none" target="_balnk">9f80f8ae0fcf47e295448d25b4ebf8e4</a></strong> <br> 
+                </div>
+              </div>
             </div>
           </div>
         </div>
