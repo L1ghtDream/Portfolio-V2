@@ -18,12 +18,12 @@
   <meta property="og:description" content="LightDream - Java, Python, C# Developer">
   <meta property="og:image" content="image.png">
 
-  <link rel="icon" href="https://cdn.lightdream.dev/website/assets/images/root/favicon.ico">
+  <link rel="icon" href="/assets/images/root/favicon.ico">
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-  <link rel="stylesheet" href="https://cdn.lightdream.dev/website/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -42,7 +42,7 @@
             <div class="pageTitle sm" data-aos="fade" data-aos-duration="1000">Projects</div>
             <div class="grid" data-aos="fade" data-aos-duration="1000">
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/original.png"></div>
+                <div class="image"><img src="/assets/images/projects/original.png"></div>
                 <div class="name">Original</div>
                 <div class="ip">original.gg</div>
                 <div class="prefix d-none">Server</div>
@@ -89,7 +89,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/gaming_world.png"></div>
+                <div class="image"><img src="/assets/images/projects/gaming_world.png"></div>
                 <div class="name">Gaming World</div>
                 <div class="ip">play.gamingworld.ro</div>
                 <div class="prefix d-none">Server</div>
@@ -154,7 +154,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/snap_beasts.png"></div>
+                <div class="image"><img src="/assets/images/projects/snap_beasts.png"></div>
                 <div class="name">SnapBeasts</div>
                 <div class="ip">play.snapbeasts.com</div>
                 <div class="prefix d-none">Server</div>
@@ -179,7 +179,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/gamster.png"></div>
+                <div class="image"><img src="/assets/images/projects/gamster.png"></div>
                 <div class="name">Gamster</div>
                 <div class="ip">mc.gamster.org</div>
                 <div class="prefix d-none">Server</div>
@@ -204,7 +204,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/banana_prison.png"></div>
+                <div class="image"><img src="/assets/images/projects/banana_prison.png"></div>
                 <div class="name">BananaPrison</div>
                 <div class="ip">mc.bananaprison.net</div>
                 <div class="prefix d-none">Server</div>
@@ -224,7 +224,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/surreal_craft.png"></div>
+                <div class="image"><img src="/assets/images/projects/surreal_craft.png"></div>
                 <div class="name">SurrealCreaft</div>
                 <div class="ip">play.surrealcraft.net</div>
                 <div class="prefix d-none">Server</div>
@@ -245,7 +245,7 @@
               </div>
               <!--
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/addicted2.png"></div>
+                <div class="image"><img src="/assets/images/projects/addicted2.png"></div>
                 <div class="name">Addicted 2</div>
                 <div class="prefix d-none">Server</div>
                 <div class="text d-none">
@@ -254,7 +254,7 @@
               </div>
               -->
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/chunkmc.png"></div>
+                <div class="image"><img src="/assets/images/projects/chunkmc.png"></div>
                 <div class="name">ChunkMC</div>
                 <div class="ip">chunkmc.net</div>
                 <div class="prefix d-none">Server</div>
@@ -277,7 +277,7 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/projects/citruspvp.png"></div>
+                <div class="image"><img src="/assets/images/projects/citruspvp.png"></div>
                 <div class="name">CitrusPvP</div>
                 <div class="ip">play.citruspvp.com</div>
                 <div class="prefix d-none">Server</div>

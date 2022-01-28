@@ -18,12 +18,12 @@
   <meta property="og:description" content="LightDream - Java, Python, C# Developer">
   <meta property="og:image" content="image.png">
 
-  <link rel="icon" href="https://cdn.lightdream.dev/website/assets/images/root/favicon.ico">
+  <link rel="icon" href="/assets/images/root/favicon.ico">
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-  <link rel="stylesheet" href="https://cdn.lightdream.dev/website/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -51,21 +51,21 @@
 			and working as a Java Dev for Minecraft Servers and as a Game Dev
 			in my free time in Unity and Unreal Engine.</p>
                 <div class="section-links" data-aos="fade">
-                    <a href="#">
+                    <a href="/projects">
                         <i class="mdi mdi-text"></i>
                         <div class="link-text">
                             <h2>Projects</h2>
                             <p>My recent work</p>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="/degrees">
                         <i class="mdi mdi-school-outline"></i>
                         <div class="link-text">
                             <h2>Degrees</h2>
                             <p>My experience</p>
                         </div>
                     </a>
-                    <a href="#">
+                    <a href="/contact">
                         <i class="mdi mdi-email-fast-outline"></i>
                         <div class="link-text">
                             <h2>Contact</h2>

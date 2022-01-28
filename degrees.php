@@ -18,12 +18,12 @@
   <meta property="og:description" content="LightDream - Java, Python, C# Developer">
   <meta property="og:image" content="image.png">
 
-  <link rel="icon" href="https://cdn.lightdream.dev/website/assets/images/root/favicon.ico">
+  <link rel="icon" href="/assets/images/root/favicon.ico">
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-  <link rel="stylesheet" href="https://cdn.lightdream.dev/website/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -44,10 +44,10 @@
               <!-- Spaciator -->
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="height: 0px; padding: 0px; border: 0px"></div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/MicroBachelors.png"></div>
+                <div class="image"><img src="/assets/images/degrees/MicroBachelors.png"></div>
                 <div class="name">Programming & Data Structures</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/MicroBachelors.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/MicroBachelors.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -61,10 +61,10 @@
             <div class="pageTitle sm" data-aos="fade" data-aos-duration="1000">Degrees</div>
             <div class="grid" data-aos="fade" data-aos-duration="1000">
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/cs50_edx_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/cs50_edx_2.png"></div>
                 <div class="name">CS50 EDX</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/cs50_edx_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/cs50_edx_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (94%) <br> 
@@ -72,10 +72,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/cs50_harvard_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/cs50_harvard_2.png"></div>
                 <div class="name">CS50 Harvard</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/cs50_harvard_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/cs50_harvard_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://cs50.harvard.edu style="color: #39c7f1; text-decoration: none" target="_balnk">Harvard</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -83,10 +83,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/osepi_special_judet_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/osepi_special_judet_2.png"></div>
                 <div class="name">OSEPI 2021 - Special Distinction</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/osepi_special_judet_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/osepi_special_judet_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=http://srsi.ro/ style="color: #39c7f1; text-decoration: none">OSEPI</a></strong> <br>
                   Award: Special Distinction (32%) <br> 
@@ -95,10 +95,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/empowersoft_mention_national_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/empowersoft_mention_national_2.png"></div>
                 <div class="name">EmpowerSoft 2021 - Mention</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/empowersoft_mention_national_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/empowersoft_mention_national_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://empowersoft.ro style="color: #39c7f1; text-decoration: none">EmpowerSoft</a></strong> <br>
                   Award: Mention (51%) <br>
@@ -107,10 +107,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/phi_mentiune_nationala_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/phi_mentiune_nationala_2.png"></div>
                 <div class="name">Phi 2020 - National Stage</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/phi_mentiune_nationala_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/phi_mentiune_nationala_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=http://stoner.phys.uaic.ro/phi.html style="color: #39c7f1; text-decoration: none">Phi</a></strong> <br>
                   Award: Mention <br>
@@ -118,10 +118,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/olimpiada_info_mentiune_judet_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/olimpiada_info_mentiune_judet_2.png"></div>
                 <div class="name">Computer Science Olympics 2020 - District Stage</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/olimpiada_info_mentiune_judet_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/olimpiada_info_mentiune_judet_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><span style="color: #39c7f1; text-decoration: none">Romania's National Organization</span></strong> <br>
                   Award: Mention <br>
@@ -129,10 +129,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.1%20NYU_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/CPP.PRG.1%20NYU_2.png"></div>
                 <div class="name">NYU - Introduction to Programming in C++</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.1%20NYU_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/CPP.PRG.1%20NYU_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -140,10 +140,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.2NYU_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/CPP.PRG.2NYU_2.png"></div>
                 <div class="name">NYU - Advanced Programming in C++</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.2NYU_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/CPP.PRG.2NYU_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -152,10 +152,10 @@
               </div>
 
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/MIT.Python_2.png"></div>
+                <div class="image"><img src="/assets/images/degrees/MIT.Python_2.png"></div>
                 <div class="name">MIT- Introduction to Computer Science and Programming Using Python</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/MIT.Python_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/MIT.Python_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (99%-Mid Term / 95%-Final) <br> 
@@ -164,10 +164,10 @@
               </div>
 
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/gcp_google_cloud_essentials.png"></div>
+                <div class="image"><img src="/assets/images/degrees/gcp_google_cloud_essentials.png"></div>
                 <div class="name">GCP - Google Cloud Essentials</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/gcp_google_cloud_essentials.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/gcp_google_cloud_essentials.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://www.cloudskillsboost.google style="color: #39c7f1; text-decoration: none" target="_balnk">Google Cloud Skill Boost</a></strong> <br>
                   Grade: Passing (100%) <br> 
@@ -176,10 +176,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.3.png"></div>
+                <div class="image"><img src="/assets/images/degrees/CPP.PRG.3.png"></div>
                 <div class="name">NYU - Introduction to Data Structures</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.3.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/CPP.PRG.3.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -187,10 +187,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.4.png"></div>
+                <div class="image"><img src="/assets/images/degrees/CPP.PRG.4.png"></div>
                 <div class="name">NYU - Advenced Data Structures</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CPP.PRG.4.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/CPP.PRG.4.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (100%) <br> 
@@ -198,10 +198,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/LFS101x.png"></div>
+                <div class="image"><img src="/assets/images/degrees/LFS101x.png"></div>
                 <div class="name">The Linux Fundation - Introduction to Linux</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/LFS101x.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/LFS101x.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (95%) <br> 
@@ -209,10 +209,10 @@
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="https://cdn.lightdream.dev/website/assets/images/degrees/CS1331xI.png"></div>
+                <div class="image"><img src="/assets/images/degrees/CS1331xI.png"></div>
                 <div class="name">Georgia Tech - Introduction to Object-Oriented Programming with Java I</div>
                 <div class="text d-none">
-                  <img src="https://cdn.lightdream.dev/website/assets/images/degrees/CS1331xI.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/CS1331xI.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Grade: Passing Grade (93%) <br> 
