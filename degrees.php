@@ -219,6 +219,17 @@
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/9f80f8ae0fcf47e295448d25b4ebf8e4 style="color: #39c7f1; text-decoration: none" target="_balnk">9f80f8ae0fcf47e295448d25b4ebf8e4</a></strong> <br> 
                 </div>
               </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/CS1331xII.png"></div>
+                <div class="name">Georgia Tech - Introduction to Object-Oriented Programming with Java II</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/CS1331xII.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Grade: Passing Grade (91%) <br> 
+                  Degree ID: <strong><a href=https://courses.edx.org/certificates/e9885d3dc2724d1dbbcce7cba85b5803 style="color: #39c7f1; text-decoration: none" target="_balnk">e9885d3dc2724d1dbbcce7cba85b5803</a></strong> <br> 
+                </div>
+              </div>
             </div>
           </div>
         </div>
