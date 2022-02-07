@@ -43,6 +43,7 @@
             <div class="grid" data-aos="fade" data-aos-duration="1000">
               <!-- Spaciator -->
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="height: 0px; padding: 0px; border: 0px"></div>
+              
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/MicroBachelors.png"></div>
                 <div class="name">Programming & Data Structures</div>
@@ -50,8 +51,26 @@
                   <img src="/assets/images/degrees/MicroBachelors.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://credentials.edx.org/credentials/95d403a687db40beaefccf8a0b771320 style="color: #39c7f1; text-decoration: none" target="_balnk">95d403a687db40beaefccf8a0b771320</a></strong> <br> 
+                </div>
+              </div>
+            </div>
+
+            <br><br><br>
+
+            <div class="pageTitle sm" data-aos="fade" data-aos-duration="1000">Profesional Certificates</div>
+            <div class="grid" data-aos="fade" data-aos-duration="1000">
+              <!-- Spaciator -->
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="height: 0px; padding: 0px; border: 0px"></div>
+              
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/java_oop.png"></div>
+                <div class="name">Introduction to Object-Oriented Programming with Java</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/java_oop.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Degree ID: <strong><a href=https://credentials.edx.org/credentials/3d08afe91a964bb6af20ab2a0b0dbe2f/ style="color: #39c7f1; text-decoration: none" target="_balnk">95d403a687db40beaefccf8a0b771320</a></strong> <br> 
                 </div>
               </div>
             </div>
@@ -67,7 +86,6 @@
                   <img src="/assets/images/degrees/cs50_edx_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (94%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/34208bd0bf6148fd917003380e3b8f7c style="color: #39c7f1; text-decoration: none" target="_balnk">34208bd0bf6148fd917003380e3b8f7c</a></strong> <br> 
                 </div>
               </div>
@@ -78,7 +96,6 @@
                   <img src="/assets/images/degrees/cs50_harvard_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://cs50.harvard.edu style="color: #39c7f1; text-decoration: none" target="_balnk">Harvard</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://certificates.cs50.io/04acc3d1-53ea-4395-b8f2-6f1f67a9f720.pdf style="color: #39c7f1; text-decoration: none" target="_balnk">04acc3d1-53ea-4395-b8f2-6f1f67a9f720</a></strong> <br> 
                 </div>
               </div>
@@ -89,7 +106,7 @@
                   <img src="/assets/images/degrees/osepi_special_judet_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=http://srsi.ro/ style="color: #39c7f1; text-decoration: none">OSEPI</a></strong> <br>
-                  Award: Special Distinction (32%) <br> 
+                  Award: Special Distinction <br> 
                   Stage: District <br>
                   Award ID: PH_10_2618 <br>   
                 </div>
@@ -101,7 +118,7 @@
                   <img src="/assets/images/degrees/empowersoft_mention_national_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://empowersoft.ro style="color: #39c7f1; text-decoration: none">EmpowerSoft</a></strong> <br>
-                  Award: Mention (51%) <br>
+                  Award: Mention <br>
                   Stage: National <br>
                   Award ID: <strong><a href=https://empowersoft.ro/concurs/diplome/sectiunea5/Diploma_PM_P-E160.pdf style="color: #39c7f1; text-decoration: none" target="_balnk">E160</a></strong> <br> 
                 </div>
@@ -135,7 +152,6 @@
                   <img src="/assets/images/degrees/CPP.PRG.1%20NYU_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/74ca9df1ce4540db93a8359369a43d21 style="color: #39c7f1; text-decoration: none" target="_balnk">74ca9df1ce4540db93a8359369a43d21</a></strong> <br> 
                 </div>
               </div>
@@ -146,7 +162,6 @@
                   <img src="/assets/images/degrees/CPP.PRG.2NYU_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/8033b3bbcc724b31a580e79aac1ee9ff style="color: #39c7f1; text-decoration: none" target="_balnk">8033b3bbcc724b31a580e79aac1ee9ff</a></strong> <br> 
                 </div>
               </div>
@@ -158,7 +173,6 @@
                   <img src="/assets/images/degrees/MIT.Python_2.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (99%-Mid Term / 95%-Final) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/06f748bc56384c528513cc28ecbb6f17 style="color: #39c7f1; text-decoration: none" target="_balnk">06f748bc56384c528513cc28ecbb6f17</a></strong> <br> 
                 </div>
               </div>
@@ -170,7 +184,6 @@
                   <img src="/assets/images/degrees/gcp_google_cloud_essentials.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://www.cloudskillsboost.google style="color: #39c7f1; text-decoration: none" target="_balnk">Google Cloud Skill Boost</a></strong> <br>
-                  Grade: Passing (100%) <br> 
                   Profile ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919 style="color: #39c7f1; text-decoration: none" target="_balnk">643253f9-e7a4-4ded-88f5-6f3741419919</a></strong> <br> 
                   Degree ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919/badges/1575699 style="color: #39c7f1; text-decoration: none" target="_balnk">1575699</a></strong> <br> 
                 </div>
@@ -182,7 +195,6 @@
                   <img src="/assets/images/degrees/CPP.PRG.3.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/835446a1852d4674ae5323fb9db57577 style="color: #39c7f1; text-decoration: none" target="_balnk">835446a1852d4674ae5323fb9db57577</a></strong> <br> 
                 </div>
               </div>
@@ -193,7 +205,6 @@
                   <img src="/assets/images/degrees/CPP.PRG.4.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (100%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/a29e65562f7345fca58254a1a50be695 style="color: #39c7f1; text-decoration: none" target="_balnk">a29e65562f7345fca58254a1a50be695</a></strong> <br> 
                 </div>
               </div>
@@ -204,29 +215,36 @@
                   <img src="/assets/images/degrees/LFS101x.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (95%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/60f3b8d3054a43e9b4670474eda3e61d style="color: #39c7f1; text-decoration: none" target="_balnk">60f3b8d3054a43e9b4670474eda3e61d</a></strong> <br> 
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/CS1331xI.png"></div>
-                <div class="name">Georgia Tech - Introduction to Object-Oriented Programming with Java I</div>
+                <div class="name">Georgia Tech Java - Foundations and Syntax Basics</div>
                 <div class="text d-none">
                   <img src="/assets/images/degrees/CS1331xI.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (93%) <br> 
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/9f80f8ae0fcf47e295448d25b4ebf8e4 style="color: #39c7f1; text-decoration: none" target="_balnk">9f80f8ae0fcf47e295448d25b4ebf8e4</a></strong> <br> 
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/CS1331xII.png"></div>
-                <div class="name">Georgia Tech - Introduction to Object-Oriented Programming with Java II</div>
+                <div class="name">Georgia Tech Java - Object-Oriented Programming and Algorithms</div>
                 <div class="text d-none">
                   <img src="/assets/images/degrees/CS1331xII.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Grade: Passing Grade (91%) <br> 
+                  Degree ID: <strong><a href=https://courses.edx.org/certificates/e9885d3dc2724d1dbbcce7cba85b5803 style="color: #39c7f1; text-decoration: none" target="_balnk">e9885d3dc2724d1dbbcce7cba85b5803</a></strong> <br> 
+                </div>
+              </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/CS1331xIII.png"></div>
+                <div class="name">Georgia Tech Java - Exceptions, Data Structures, Recursion, and GUIs</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/CS1331xIII.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/e9885d3dc2724d1dbbcce7cba85b5803 style="color: #39c7f1; text-decoration: none" target="_balnk">e9885d3dc2724d1dbbcce7cba85b5803</a></strong> <br> 
                 </div>
               </div>
