@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <a class="navbar-brand" href="index.php">
-      <img src="assets/images/root/logo.png" style="width: 41px">
+      <!--<img src="assets/images/root/logo.png" style="width: 41px">-->
       Light<span>Dream</span>
       <i class="mdi mdi-xml"></i>
     </a>
