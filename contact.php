@@ -52,7 +52,7 @@
                 <div class="image"><i class="mdi mdi-github"></i></div>
                 <div class="name">GitHub</div>
               </a>
-              <a class="grid-card" href="https://linkedin.com/in/L1ghtDream/" target="_blank">
+              <a class="grid-card" href="https://linkedin.com/in/voinearadu/" target="_blank">
                 <div class="image"><i class="mdi mdi-linkedin"></i></div>
                 <div class="name">LinkedIn</div>
               </a>
