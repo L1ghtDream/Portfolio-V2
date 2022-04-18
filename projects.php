@@ -55,6 +55,64 @@
 
                   <h3> Projetcs </h3>
                   
+                  <!-- Not Released
+                  <h5>
+                    &emsp;• Control Panel ~ <a href="https://panel.original.gg" target="_balnk">Link</a>
+                    <a href="https://github.com/L1ghtDream/ControlPanel" style="text-decoration: none; color: #39c7f1;" target="_blank">
+                      <span class="mdi mdi-github"></span> 
+                    </a>
+                  </h5>
+                  &emsp;&emsp;&emsp; A web application that lets the server managers and developers more easily interact with server
+                  instances. The panel is mainly aimed at java processes, but it may support other processes as well that use a port. 
+                  The panel lets the manager create new nodes ~ associated with new physical servers ~ as well as create new servers, 
+                  or instances of java. Each server has its own permissions for each user, so one developer can have access only to 
+                  what he needs to work on. The server allows created on SFTP servers on each node with custom credentials made with 
+                  the permissions of each user on each server. Each server is started in a linux screen so in case of a web crash the 
+                  servers will not have to suffer any damage. Each server can be accessed and has an open console (if the user has 
+                  permission to see it), as well as start / stop / restart / kill actions and stats about the server as CPU, Memory, 
+                  Storage usage and Memory allocation of the process (java only). As this is interacting directly with bare metal 
+                  the system administrator has the option to force all the users to have 2fa (via Google otp) enabled. 
+                  <br><br>
+                  --> 
+
+                  <h5>
+                    &emsp;• TicketSystem
+                    <a href="https://github.com/L1ghtDream/TicketSystem" style="text-decoration: none; color: #39c7f1;" target="_blank">
+                      <span class="mdi mdi-github"></span> 
+                    </a>
+                  </h5>
+                  &emsp;&emsp;&emsp; A discord bot system that allows the users to create and manager tickets from one centralized system.
+                  It allows the separation of tickets in categories (by default general, donations, password, and top) as well as to allow
+                  banned users to appeal their ban. As the normal discord ban removes the user completely from the server the system creates
+                  a custom ban system that does not restrict the user from being able to be present on the server, but it removes all the 
+                  roles of the user and gives him a banned role that only has access to the ban appeal ticket. 
+                  <br>
+                  <h6>
+                  Additional features:
+                  </h6>
+                  <ul>
+                  <li>Ticket transcripts</li> 
+                  <li>Ticket user management</li> 
+                  <li>Roles restoration if the user is unbanned</li> 
+                  <li>Automatically closing inactive tickets</li> 
+                  <li>Tickets blacklisting - Denying a player from creating new tickets</li> 
+                  <li>User ban history</li> 
+                  <li>User tickets history</li> 
+                  </ul>
+
+                  <h5>
+                    &emsp;• User Dashboard ~ <a href="https://original.gg" target="_balnk">Link</a>
+                    <a href="https://github.com/L1ghtDream/Panel" style="text-decoration: none; color: #39c7f1;" target="_blank">
+                      <span class="mdi mdi-github"></span> 
+                    </a>
+                  </h5>
+                  &emsp;&emsp;&emsp; A web application that lets any user better interact with staff members and their requests. The web 
+                  applications is configured to deliver the user with the option to create staff applications, unban requests, create 
+                  complains, report bugs and more.For staff members they can see all the above in a tab. For the login system as the panel 
+                  is aimed at making easier to interface with your account on server, it uses the same password as the one from the server, 
+                  thus making it impossible to impersonate someone.
+                  <br><br>
+
                   <h5>
                     &emsp;• RoyalSecurity
                     <a href="https://github.com/L1ghtDream/RoyalSecurity" style="text-decoration: none; color: #39c7f1;" target="_blank">
@@ -62,20 +120,29 @@
                     </a>
                   </h5>
                   &emsp;&emsp;&emsp; A plugin that aims to protect your minecraft account even on non premium servers. It allows you to link
-                  your minecraft account to your discord and receive notifications if someone connects to your account from a different ip. 
-                  If refeused the ip will be blacklisted from the server for a period of time. If you get flooded with login attempts you 
-                  can lockdown your account and every attempt to connect to your account will be automatically blacklisted. Also if you have 
-                  locked yourself out of your account by forgeting the password imposible as you can simply reset it on discord. This also 
-                  makes managing the rewards ar giveaways much easier to manager for admins as they can just check if you own the account. <br><br>
+                  your minecraft account to your discord and receive notifications if someone connects to your account from a different ip.
+                  If refused the ip will be blacklisted from the server for a period of time. If you get flooded with login attempts you
+                  can lock down your account and every attempt to connect to your account will be automatically blacklisted. Also if you have
+                  locked yourself out of your account by forgetting the password impossible as you can simply reset it on discord. This also
+                  makes managing the rewards ar giveaways much easier to manager for admins as they can just check if you own the account.
+                  <br>
+                  <h6>
+                  &emsp;&emsp;Additional features:
+                  </h6>
+                  <ul>
+                  <li>Change password of linked account</li>
+                  <li>Unregister accounts</li>
+                  <li>Tebex payments history</li>
+                  </ul>
 
+                  <!--
                   <h5>&emsp;• TPS Helper</h5>
                   &emsp;&emsp;&emsp; A simple plugin that executes commands on TPS topics decrease and limits the 
                   number of armour stands on the same chunk to limit its use as a lag object. <br><br>
 
                   <h5>&emsp;• Original Crystals</h5>
                   &emsp;&emsp;&emsp; Custom currency plugin that supports ranks purchased via Tabex API using the currency <br><br>
-
-                  <!--
+                  
                   <h5>&emsp;• Kill Command</h5>
                   &emsp;&emsp;&emsp; Simple plugin to execute commands when a player kills another player. <br><br>
 
@@ -97,7 +164,7 @@
                   IP: %ip% <br>
                   Online Players: %status% <br>
                   Current Position: Developer & Owner <br>
-                  Duration: September 2020 -> Present <br>
+                  Duration: September 2020 -> February 2022<br>
                   <br>
 
                   <h3> Projetcs </h3>
@@ -154,15 +221,42 @@
                 </div>
               </div>
               <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
+                <div class="image"><img src="/assets/images/projects/pokeninjas.png"></div>
+                <div class="name">PokeNinjas</div>
+                <div class="ip">playpokeninjas.com</div>
+                <div class="prefix d-none">Server</div>
+                <div class="text d-none">
+                  IP: Not Released <br>
+                  Online Players: Not Released <br>
+                  Current Position: Developer & Sys Admin <br>
+                  Duration: September 2020 -> Present <br>
+                  <br>
+
+                  <h3> Projetcs </h3>
+
+                  <!-- Not Released
+                  <h5>&emsp;• Kingdoms</h5>
+                  &emsp;&emsp;&emsp; A friends plugin that also implements parties, chatting with them other interactions between players.
+                  The plugin implements kingdoms management, users can create / destory kingdoms and invite / kick / leave kingdoms.
+                  The plugins is made as a sponge plugin and implements a ProxyInterface that lets the plugin send the users across 
+                  different servers on the proxy (presumably other kingdoms server instance), as well as allow comunications between servers
+                  on the same proxy. The plugins hooks into the mod PixelmonGenerations to create new GUIs programatically, and display them 
+                  to the user.
+                  <br><br>
+                  -->
+                </div>
+              </div>
+
+              <div class="grid-card toggle-modal" data-toggle="modal" data-target="#projectModal">
                 <div class="image"><img src="/assets/images/projects/snap_beasts.png"></div>
                 <div class="name">SnapBeasts</div>
                 <div class="ip">play.snapbeasts.com</div>
                 <div class="prefix d-none">Server</div>
                 <div class="text d-none">
-                  IP: %ip% <br>
-                  Online Players: %status% <br>
-                  Current Position: Developer <br>
-                  Duration: September 2020 -> August 2021 <br>
+                  IP: Not Released <br>
+                  Online Players: Not Released <br>
+                  Current Position: Developer & Manager <br>
+                  Duration: September 2020 -> Present <br>
                   <br>
 
                   <h3> Projetcs </h3>
@@ -262,7 +356,7 @@
                   IP: %ip% <br>
                   Online Players: %status% <br>
                   Current Position: Developer <br>
-                  Duration: June 2021 -> Present <br>
+                  Duration: June 2021 -> December 2021 <br>
                   <br>
 
                   <h3> Projetcs </h3>
