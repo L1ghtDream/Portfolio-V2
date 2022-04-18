@@ -1,0 +1,11 @@
+--2022-04-18 11:18:09--  https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730
+Resolving www.gend.co (www.gend.co)... 199.60.103.226, 199.60.103.30, 2606:2c40::c73c:67e2, ...
+Connecting to www.gend.co (www.gend.co)|199.60.103.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17388 (17K) [image/png]
+Saving to: ‘gcp-logo-cloud.png?width=730’
+
+gcp-logo-cloud.png?width=730               0%[                                                                                ]       0  --.-KB/s               gcp-logo-cloud.png?width=730             100%[===============================================================================>]  16.98K  --.-KB/s    in 0s      
+
+2022-04-18 11:18:10 (57.7 MB/s) - ‘gcp-logo-cloud.png?width=730’ saved [17388/17388]
+

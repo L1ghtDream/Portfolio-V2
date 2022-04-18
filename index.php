@@ -36,45 +36,166 @@
 <div id="page" class="home">
     <?php include_once 'modules/nav.php'; ?>
     <div id="wrap">
-            <div class="section bg">
-                <small class="subTitle" data-aos="fade" data-aos-duration="1000">Hello, I am a</small>
-                <h1 class="title" data-aos="zoom-in" data-aos-delay="300"><div id="sd">Student Developer</div></h1>
-                <div class="continue" data-aos="fade-up" data-aos-delay="800" data-aos-duration="1000">
-                    <i class="mdi mdi-mouse"></i> Continue Scrolling...
-                </div>
+        <div class="section bg">
+            <small class="subTitle" data-aos="fade" data-aos-duration="1000">Hello, I am a</small>
+            <h1 class="title" data-aos="zoom-in" data-aos-delay="300"><div id="sd">Student Developer</div></h1>
+            <div class="continue" data-aos="fade-up" data-aos-delay="800" data-aos-duration="1000">
+                <i class="mdi mdi-mouse"></i> Continue Scrolling...
             </div>
-            <div class="section other">
-                <small class="subTitle" data-aos="fade">About Me</small>
-                <h1 class="title" data-aos="fade">Hello, Im <span>Light</span>Dream!</h1>
-                <p class="text" data-aos="fade">My name is Radu, I'm a 17 year old computer enthusiast.
-			I'm currently studying Computer Science in Valenii de Munte, Romania
-			and working as a Java Dev for Minecraft Servers and as a Game Dev
-			in my free time in Unity and Unreal Engine.</p>
-                <div class="section-links" data-aos="fade">
-                    <a href="/projects">
-                        <i class="mdi mdi-text"></i>
-                        <div class="link-text">
-                            <h2>Projects</h2>
-                            <p>My recent work</p>
-                        </div>
-                    </a>
-                    <a href="/degrees">
-                        <i class="mdi mdi-school-outline"></i>
-                        <div class="link-text">
-                            <h2>Degrees</h2>
-                            <p>My experience</p>
-                        </div>
-                    </a>
-                    <a href="/contact">
-                        <i class="mdi mdi-email-fast-outline"></i>
-                        <div class="link-text">
-                            <h2>Contact</h2>
-                            <p>Get in touch</p>
-                        </div>
-                    </a>
+            <a href="#about-me">
+                <div class="about-me" data-aos="fade-up" data-aos-delay="1600" data-aos-duration="1000">
+                    <i class="mdi mdi-cursor-default-click"></i> About me
                 </div>
+            </a>
+            <a href="#tech-stack">
+                <div class="about-me" data-aos="fade-up" data-aos-delay="2000" data-aos-duration="1000" style="left:500px !important;">
+                    <i class="mdi mdi-cursor-default-click"></i> Tech Stack
+                </div>
+            </a>
+        </div>
+        <div class="section other" id="about-me">
+            <small class="subTitle" data-aos="fade">About Me</small>
+            <h1 class="title" data-aos="fade">Hello, Im <span>Light</span>Dream!</h1>
+            <p class="text" data-aos="fade">
+            My name is Radu, I'm a 17 year old computer enthusiast.
+            I'm currently studying Computer Science in Valenii de Munte, Romania
+            and working as a Java Dev for Minecraft Servers and as a Game Dev
+            in my free time in Unity and Unreal Engine.
+            </p>
+            <div class="section-links" data-aos="fade">
+                <a href="/projects">
+                    <i class="mdi mdi-text"></i>
+                    <div class="link-text">
+                        <h2>Projects</h2>
+                        <p>My recent work</p>
+                    </div>
+                </a>
+                <a href="/degrees">
+                    <i class="mdi mdi-school-outline"></i>
+                    <div class="link-text">
+                        <h2>Degrees</h2>
+                        <p>My experience</p>
+                    </div>
+                </a>
+                <a href="/contact">
+                    <i class="mdi mdi-email-fast-outline"></i>
+                    <div class="link-text">
+                        <h2>Contact</h2>
+                        <p>Get in touch</p>
+                    </div>
+                </a>
             </div>
+            <div class="section-links" data-aos="fade">
+                <a href="#tech-stack">
+                    <i class="mdi mdi-code-tags"></i>
+                    <div class="link-text">
+                        <h2>Tech Stack</h2>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="section other" id="tech-stack">
+        <h3>Tech Stack</h3> 
+        <div class="tech-stack-container"> 
+            <div class="skill"> 
+                <img src="assets/images/skills/java.svg">
+                <span>&nbsp;Java</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/python.svg">
+                <span>&nbsp;Python</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/c++.png">
+                <span>&nbsp;C++</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/csharp.svg">
+                <span>&nbsp;C#</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/js.png">
+                <span>&nbsp;JavaScript</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/mysql.png">
+                <span>&nbsp;MySQL</span>
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/mariadb.png">
+                <span>&nbsp;MariaDB</span>
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/redis.png">
+                <span>&nbsp;Redis</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/docker.png">
+                <span>&nbsp;Docker</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/kubernetes.png">
+                <span>&nbsp;Kubernetes</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/cloudflare.png">
+                <span>&nbsp;CloudFlare</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/pterodactyl.png">
+                <span>&nbsp;Pterodactyl Panel</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/cloudnetv3.png">
+                <span>&nbsp;CloudNet v3</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/windows.svg">
+                <span>&nbsp;Windows</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/ubuntu.png">
+                <span>&nbsp;Ubuntu</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/linux.png">
+                <span>&nbsp;Linux</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/gcp.png">
+                <span>&nbsp;Google Cloud Platform</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/aws.png">
+                <span>&nbsp;Amazon Web Service</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/mongodb.png">
+                <span>&nbsp;Mongo DB</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/spring.png">
+                <span>&nbsp;Spring</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/django.png">
+                <span>&nbsp;Django</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/nginx.png">
+                <span>&nbsp;Nginx</span> 
+            </div>
+            <div class="skill"> 
+                <img src="assets/images/skills/apache.png">
+                <span>&nbsp;Apache</span> 
+            </div>
+        </div>
+        </div>
     </div>
+
+    
     <?php include_once 'modules/footer.php'; ?>
 </div>
 <a href="#" id="top">

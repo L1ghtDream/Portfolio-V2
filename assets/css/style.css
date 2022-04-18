@@ -364,7 +364,34 @@ body {
     margin: 0 auto;
     text-align: center;
     max-width: 260px;
-    bottom: 100px;
+    bottom: 250px;
+    color: #8c8aad;
+    font-size: 17px;
+    font-family: 'Mohave', sans-serif;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.about-me i {
+    margin-right: 10px;
+    position: relative;
+    top: -1px;
+}
+
+.about-me {
+    padding: 18px 30px;
+    border-radius: 100px;
+    border: 2px solid #313042;
+    position: absolute;
+    left: 0;
+    right: 250px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 200px;
+    bottom: 170px;
     color: #8c8aad;
     font-size: 17px;
     font-family: 'Mohave', sans-serif;
@@ -488,4 +515,29 @@ body {
         margin-bottom: 20px;
         min-width: unset !important;
     }
+}
+
+.tech-stack-container {
+    margin: 50px auto 0 auto;
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill {
+    border-radius: 12px;
+    margin: 10px;
+    border: 2px solid #7eb77f;
+    padding: 8px 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.skill > img {
+    width: 24px;
+    max-height: 24px;
 }
