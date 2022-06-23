@@ -60,8 +60,6 @@
 
             <div class="pageTitle sm" data-aos="fade" data-aos-duration="1000">Profesional Certificates</div>
             <div class="grid" data-aos="fade" data-aos-duration="1000">
-              <!-- Spaciator -->
-              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="height: 0px; padding: 0px; border: 0px"></div>
               
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/java_oop.png"></div>
@@ -70,25 +68,64 @@
                   <img src="/assets/images/degrees/java_oop.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Degree ID: <strong><a href=https://credentials.edx.org/credentials/3d08afe91a964bb6af20ab2a0b0dbe2f/ style="color: #39c7f1; text-decoration: none" target="_balnk">95d403a687db40beaefccf8a0b771320</a></strong> <br> 
+                  Degree ID: <strong><a href=https://credentials.edx.org/credentials/3d08afe91a964bb6af20ab2a0b0dbe2f/ style="color: #39c7f1; text-decoration: none" target="_balnk">3d08afe91a964bb6af20ab2a0b0dbe2f</a></strong> <br> 
                 </div>
               </div>
-            </div>
+
+              <!-- Spaciator -->
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="height: 0px; padding: 0px; border: 0px"></div>
+
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                  <div class="image"><img src="/assets/images/degrees/programing_and_data_structures.png"></div>
+                  <div class="name">Programming & Data Structures</div>
+                  <div class="text d-none">
+                    <img src="/assets/images/degrees/programing_and_data_structures.png" style="width: min(755px, 100%); height: auto;">
+                    <br><br>
+                    Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                    Degree ID: <strong><a href=https://credentials.edx.org/credentials/95d403a687db40beaefccf8a0b771320/ style="color: #39c7f1; text-decoration: none" target="_balnk">95d403a687db40beaefccf8a0b771320</a></strong> <br> 
+                  </div>
+                </div>
+              </div>
+
 
             <br><br><br>
 
             <div class="pageTitle sm" data-aos="fade" data-aos-duration="1000">Degrees</div>
+
+            <!-- Harvard -->
             <div class="grid" data-aos="fade" data-aos-duration="1000">
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="/assets/images/degrees/cs50_edx_2.png"></div>
-                <div class="name">CS50 EDX</div>
+                <div class="image"><img src="/assets/images/degrees/cs50.png"></div>
+                <div class="name">CS50</div>
                 <div class="text d-none">
-                  <img src="/assets/images/degrees/cs50_edx_2.png" style="width: min(755px, 100%); height: auto;">
+                  <img src="/assets/images/degrees/cs50.png" style="width: min(755px, 100%); height: auto;">
                   <br><br>
-                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Degree ID: <strong><a href=https://courses.edx.org/certificates/34208bd0bf6148fd917003380e3b8f7c style="color: #39c7f1; text-decoration: none" target="_balnk">34208bd0bf6148fd917003380e3b8f7c</a></strong> <br> 
+                  Degree ID: <strong><a href=https://cs50.harvard.edu/certificates/04acc3d1-53ea-4395-b8f2-6f1f67a9f720 style="color: #39c7f1; text-decoration: none" target="_balnk">04acc3d1-53ea-4395-b8f2-6f1f67a9f720</a></strong> <br> 
                 </div>
               </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/cs50_web.png"></div>
+                <div class="name">CS50 Web</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/cs50_web.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Degree ID: <strong><a href=https://cs50.harvard.edu/certificates/7aadc2d8-d067-467a-af3f-52e0a7803a01 style="color: #39c7f1; text-decoration: none" target="_balnk">7aadc2d8-d067-467a-af3f-52e0a7803a01</a></strong> <br> 
+                </div>
+              </div>
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/cs50_ai.png"></div>
+                <div class="name">CS50 AI</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/cs50_ai.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Degree ID: <strong><a href=https://cs50.harvard.edu/certificates/5cfddddf-bcd7-485c-8c5d-0c288d1fc5d1 style="color: #39c7f1; text-decoration: none" target="_balnk">5cfddddf-bcd7-485c-8c5d-0c288d1fc5d1</a></strong> <br> 
+                </div>
+              </div>
+
+
+              <!--
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/cs50_harvard_2.png"></div>
                 <div class="name">CS50 Harvard</div>
@@ -97,6 +134,21 @@
                   <br><br>
                   Platform: <strong><a href=https://cs50.harvard.edu style="color: #39c7f1; text-decoration: none" target="_balnk">Harvard</a></strong> <br>
                   Degree ID: <strong><a href=https://certificates.cs50.io/04acc3d1-53ea-4395-b8f2-6f1f67a9f720.pdf style="color: #39c7f1; text-decoration: none" target="_balnk">04acc3d1-53ea-4395-b8f2-6f1f67a9f720</a></strong> <br> 
+                </div>
+              </div>
+              -->
+
+
+              <!-- School Olympics & Contests -->
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/olimpiada_info_mentiune_judet_2022.png"></div>
+                <div class="name">Computer Science Olympics 2022 - District Stage</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/olimpiada_info_mentiune_judet_2022.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><span style="color: #39c7f1; text-decoration: none">Romania's National Organization</span></strong> <br>
+                  Award: Mention <br>
+                  Stage: District
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
@@ -145,6 +197,9 @@
                   Stage: District
                 </div>
               </div>
+
+
+              <!-- NYU -->
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/CPP.PRG.1%20NYU_2.png"></div>
                 <div class="name">NYU - Introduction to Programming in C++</div>
@@ -163,29 +218,6 @@
                   <br><br>
                   Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/8033b3bbcc724b31a580e79aac1ee9ff style="color: #39c7f1; text-decoration: none" target="_balnk">8033b3bbcc724b31a580e79aac1ee9ff</a></strong> <br> 
-                </div>
-              </div>
-
-              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="/assets/images/degrees/MIT.Python_2.png"></div>
-                <div class="name">MIT- Introduction to Computer Science and Programming Using Python</div>
-                <div class="text d-none">
-                  <img src="/assets/images/degrees/MIT.Python_2.png" style="width: min(755px, 100%); height: auto;">
-                  <br><br>
-                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
-                  Degree ID: <strong><a href=https://courses.edx.org/certificates/06f748bc56384c528513cc28ecbb6f17 style="color: #39c7f1; text-decoration: none" target="_balnk">06f748bc56384c528513cc28ecbb6f17</a></strong> <br> 
-                </div>
-              </div>
-
-              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
-                <div class="image"><img src="/assets/images/degrees/gcp_google_cloud_essentials.png"></div>
-                <div class="name">GCP - Google Cloud Essentials</div>
-                <div class="text d-none">
-                  <img src="/assets/images/degrees/gcp_google_cloud_essentials.png" style="width: min(755px, 100%); height: auto;">
-                  <br><br>
-                  Platform: <strong><a href=https://www.cloudskillsboost.google style="color: #39c7f1; text-decoration: none" target="_balnk">Google Cloud Skill Boost</a></strong> <br>
-                  Profile ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919 style="color: #39c7f1; text-decoration: none" target="_balnk">643253f9-e7a4-4ded-88f5-6f3741419919</a></strong> <br> 
-                  Degree ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919/badges/1575699 style="color: #39c7f1; text-decoration: none" target="_balnk">1575699</a></strong> <br> 
                 </div>
               </div>
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
@@ -208,6 +240,36 @@
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/a29e65562f7345fca58254a1a50be695 style="color: #39c7f1; text-decoration: none" target="_balnk">a29e65562f7345fca58254a1a50be695</a></strong> <br> 
                 </div>
               </div>
+
+
+              <!-- MIT -->
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/MIT.Python_2.png"></div>
+                <div class="name">MIT- Introduction to Computer Science and Programming Using Python</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/MIT.Python_2.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://edx.org style="color: #39c7f1; text-decoration: none" target="_balnk">EDX</a></strong> <br>
+                  Degree ID: <strong><a href=https://courses.edx.org/certificates/06f748bc56384c528513cc28ecbb6f17 style="color: #39c7f1; text-decoration: none" target="_balnk">06f748bc56384c528513cc28ecbb6f17</a></strong> <br> 
+                </div>
+              </div>
+
+
+              <!-- GCP -->
+              <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
+                <div class="image"><img src="/assets/images/degrees/gcp_google_cloud_essentials.png"></div>
+                <div class="name">GCP - Google Cloud Essentials</div>
+                <div class="text d-none">
+                  <img src="/assets/images/degrees/gcp_google_cloud_essentials.png" style="width: min(755px, 100%); height: auto;">
+                  <br><br>
+                  Platform: <strong><a href=https://www.cloudskillsboost.google style="color: #39c7f1; text-decoration: none" target="_balnk">Google Cloud Skill Boost</a></strong> <br>
+                  Profile ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919 style="color: #39c7f1; text-decoration: none" target="_balnk">643253f9-e7a4-4ded-88f5-6f3741419919</a></strong> <br> 
+                  Degree ID: <strong><a href=https://www.cloudskillsboost.google/public_profiles/643253f9-e7a4-4ded-88f5-6f3741419919/badges/1575699 style="color: #39c7f1; text-decoration: none" target="_balnk">1575699</a></strong> <br> 
+                </div>
+              </div>
+              
+
+              <!-- Linux -->
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/LFS101x.png"></div>
                 <div class="name">The Linux Fundation - Introduction to Linux</div>
@@ -218,6 +280,9 @@
                   Degree ID: <strong><a href=https://courses.edx.org/certificates/60f3b8d3054a43e9b4670474eda3e61d style="color: #39c7f1; text-decoration: none" target="_balnk">60f3b8d3054a43e9b4670474eda3e61d</a></strong> <br> 
                 </div>
               </div>
+
+              
+              <!-- Georgia Tech -->
               <div class="grid-card toggle-degree" data-toggle="modal" data-target="#degreeModal" style="min-height: 200px">
                 <div class="image"><img src="/assets/images/degrees/CS1331xI.png"></div>
                 <div class="name">Georgia Tech Java - Foundations and Syntax Basics</div>
