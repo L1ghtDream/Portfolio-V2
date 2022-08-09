@@ -57,7 +57,7 @@
             <small class="subTitle" data-aos="fade">About Me</small>
             <h1 class="title" data-aos="fade">Hello, Im <span>Light</span>Dream!</h1>
             <p class="text" data-aos="fade">
-            My name is Radu, I'm a 17 year old computer enthusiast.
+            My name is Radu, I'm an 18 year old computer enthusiast.
             I'm currently studying Computer Science in Valenii de Munte, Romania
             and working as a Java Dev for Minecraft Servers and as a Game Dev
             in my free time in Unity and Unreal Engine.
